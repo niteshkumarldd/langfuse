@@ -1,5 +1,6 @@
 {
   "name": "langfuse-development",
+  "command" : "cp .env.dev.example .env",
   "dockerComposeFile": [
     "../docker-compose.yml"
   ],
